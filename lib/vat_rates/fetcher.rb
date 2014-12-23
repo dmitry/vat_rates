@@ -1,6 +1,5 @@
 require 'open-uri'
 require 'nokogiri'
-require 'active_support/core_ext/array/grouping'
 
 module VatRates
   class Fetcher
