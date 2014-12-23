@@ -1,9 +1,9 @@
 # encoding: utf-8
 require 'spec_helper'
 
-describe VatRates::Fetcher do
-  it '#get' do
-    values = VatRates::Fetcher.get
+describe VatRates do
+  it '#fetch' do
+    values = VatRates.fetch
 
     france = {
       code: 'FR',
@@ -18,5 +18,9 @@ describe VatRates::Fetcher do
 
     expect(values.find { |v| 'France' == v[:name] }).to eq(france)
     expect(values.count).to eq 28
+  end
+
+  it '#load' do
+    expect(VatRates.load).to eq VatRates.fetch
   end
 end

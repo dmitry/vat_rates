@@ -1,0 +1,216 @@
+[{
+  ":code": "AT",
+  ":name": "Austria",
+  ":rate": 20.0,
+  ":regions": [{
+    ":name": "Jungholz",
+    ":rate": 0
+  }, {
+    ":name": "Mittelberg",
+    ":rate": 0
+  }]
+}, {
+  ":code": "BE",
+  ":name": "Belgium",
+  ":rate": 21.0
+}, {
+  ":code": "BG",
+  ":name": "Bulgaria",
+  ":rate": 20.0
+}, {
+  ":code": "CY",
+  ":name": "Cyprus",
+  ":rate": 19.0
+}, {
+  ":code": "CZ",
+  ":name": "Czech Republic",
+  ":rate": 21.0
+}, {
+  ":code": "DE",
+  ":name": "Germany",
+  ":rate": 19.0,
+  ":regions": [{
+    ":name": "Heligoland",
+    ":rate": 0
+  }, {
+    ":name": "Büsingen",
+    ":rate": 0
+  }]
+}, {
+  ":code": "DK",
+  ":name": "Denmark",
+  ":rate": 25.0,
+  ":regions": [{
+    ":name": "Faeroe Islands",
+    ":rate": 0
+  }, {
+    ":name": "Greenland",
+    ":rate": 0
+  }]
+}, {
+  ":code": "EE",
+  ":name": "Estonia",
+  ":rate": 20.0
+}, {
+  ":code": "EL",
+  ":name": "Greece",
+  ":rate": 23.0,
+  ":regions": [{
+    ":name": "Lesbos",
+    ":rate": 0
+  }, {
+    ":name": "Chios",
+    ":rate": 0
+  }, {
+    ":name": "Samos",
+    ":rate": 0
+  }, {
+    ":name": "Dodecanese",
+    ":rate": 0
+  }, {
+    ":name": "Cyclades",
+    ":rate": 0
+  }, {
+    ":name": "Aegean islands of Thassos",
+    ":rate": 0
+  }, {
+    ":name": "Northern Sporades",
+    ":rate": 0
+  }, {
+    ":name": "Samothrace and Skiros",
+    ":rate": 0
+  }]
+}, {
+  ":code": "ES",
+  ":name": "Spain",
+  ":rate": 21.0,
+  ":regions": [{
+    ":name": "Canary Islands",
+    ":rate": 0
+  }, {
+    ":name": "Ceuta",
+    ":rate": 0
+  }, {
+    ":name": "Melilla",
+    ":rate": 0
+  }]
+}, {
+  ":code": "FI",
+  ":name": "Finland",
+  ":rate": 24.0,
+  ":regions": [{
+    ":name": "Åland Islands",
+    ":rate": 0
+  }]
+}, {
+  ":code": "FR",
+  ":name": "France",
+  ":rate": 20.0,
+  ":regions": [{
+    ":name": "Corsica",
+    ":rate": 20.0,
+    ":reduced_rates": {
+      ":category": "Taux particulier",
+      ":rate": 10.0
+    }
+  }, {
+    ":name": "DOM",
+    ":rate": 8.5,
+    ":reduced_rates": {
+      ":category": "Taux réduit",
+      ":rate": 1.05
+    }
+  }, {
+    ":name": "Monaco",
+    ":rate": 20.0,
+    ":reduced_rates": {
+      ":category": "Taux intermédiaire",
+      ":rate": 10.0
+    }
+  }]
+}, {
+  ":code": "GB",
+  ":name": "United Kingdom",
+  ":rate": 20.0,
+  ":regions": [{
+    ":name": "Isle of Man",
+    ":rate": 0
+  }]
+}, {
+  ":code": "HR",
+  ":name": "Croatia",
+  ":rate": 25.0
+}, {
+  ":code": "HU",
+  ":name": "Hungary",
+  ":rate": 27.0
+}, {
+  ":code": "IE",
+  ":name": "Ireland",
+  ":rate": 23.0
+}, {
+  ":code": "IT",
+  ":name": "Italy",
+  ":rate": 22.0,
+  ":regions": [{
+    ":name": "Livigno",
+    ":rate": 0
+  }, {
+    ":name": "Campione d'Italia",
+    ":rate": 0
+  }, {
+    ":name": "Lake Lugano",
+    ":rate": 0
+  }]
+}, {
+  ":code": "LT",
+  ":name": "Lithuania",
+  ":rate": 21.0
+}, {
+  ":code": "LU",
+  ":name": "Luxembourg",
+  ":rate": 15.0
+}, {
+  ":code": "LV",
+  ":name": "Latvia",
+  ":rate": 21.0
+}, {
+  ":code": "MT",
+  ":name": "Malta",
+  ":rate": 18.0
+}, {
+  ":code": "NL",
+  ":name": "Netherlands",
+  ":rate": 21.0
+}, {
+  ":code": "PL",
+  ":name": "Poland",
+  ":rate": 23.0
+}, {
+  ":code": "PT",
+  ":name": "Portugal",
+  ":rate": 23.0,
+  ":regions": [{
+    ":name": "Azores",
+    ":rate": 0
+  }, {
+    ":name": "Madeira",
+    ":rate": 0
+  }]
+}, {
+  ":code": "RO",
+  ":name": "Romania",
+  ":rate": 24.0
+}, {
+  ":code": "SE",
+  ":name": "Sweden",
+  ":rate": 25.0
+}, {
+  ":code": "SI",
+  ":name": "Slovenia",
+  ":rate": 22.0
+}, {
+  ":code": "SK",
+  ":name": "Slovak Republic",
+  ":rate": 20.0
+}]
