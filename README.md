@@ -1,5 +1,7 @@
 # VAT Rates
 
+[![Build Status](https://secure.travis-ci.org/dmitry/vat_rates.png?branch=master)](http://travis-ci.org/dmitry/vat_rates) [![Gem Version](https://badge.fury.io/rb/vat_rates.png)](http://badge.fury.io/rb/vat_rates)
+
 VAT rates based on the [ec.europa.eu](http://ec.europa.eu/taxation_customs/tic/public/vatRates/vatratesSearch.html) website list. This gem parses data on the page, and provides interface to those data.
 
 ## Installation
